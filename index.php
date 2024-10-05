@@ -3,8 +3,8 @@
 
 // Mock data (you can replace this with database results)
 $data = array(
-    array("id" => 1, "name" => "John Doe", "email" => "john@example.com"),
-    array("id" => 2, "name" => "Jane Smith", "email" => "jane@example.com")
+    array("id" => 1, "name" => "Prathmesh", "email" => "john@example.com"),
+    array("id" => 2, "name" => "Malvi", "email" => "jane@example.com")
 );
 
 // Send the JSON response
